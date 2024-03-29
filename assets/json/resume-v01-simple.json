@@ -1,0 +1,115 @@
+{
+  "basics": {
+    "name": "xxMy name",
+    "label": "Scientist",
+    "image": "",
+    "email": "xxMy@gmail.com",
+    "phone": "(912) 123-4567",
+    "url": "https://thesis1775.github.io/",
+    "summary": "a developer",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "thesis1775",
+        "url": "https://twitter.com/thesis1775"
+      }
+    ]
+  },
+  "xmyresuyprofile": [
+    {
+      "name": "itemx1",
+      "date": "2022-02-03",
+      "issuer": "Stanford University",
+      "url": "https://isamweb.org/",
+      "icon": "fa-brands fa-x-twitter"
+    },
+    {
+      "name": "xxQuantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "xxQuantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "xxQuantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "xxQuantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "work": [
+    {
+      "name": "xxMy University",
+      "position": "xxMy position",
+      "url": "https://xxMy.com",
+      "startDate": "2020-01-01",
+      "endDate": "2025-01-01",
+      "summary": "coding",
+      "highlights": ["Relativity"]
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Coding",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C++",
+        "C#"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "coding",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "function",
+        "class"
+      ]
+    }
+  ]
+ 
+}
